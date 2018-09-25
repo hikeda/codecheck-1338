@@ -12,5 +12,3 @@ function main(argv) {
 }
 
 module.exports = main;
-
-//ikeda
